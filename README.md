@@ -23,3 +23,8 @@ Downloadable assets of the Blocklytics logo.
 <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/fire.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/like.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/love.png" width=180 />
 
 <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/party.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/star.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/sweat.png" width=180 />
+
+<img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/thinking.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/santa.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/cartographer.png" width=180 />
+
+
+<img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/money.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/exploding.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/grin.png" width=180 />
