@@ -28,3 +28,12 @@ Downloadable assets of the Blocklytics logo.
 
 
 <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/money.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/exploding.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/grin.png" width=180 />
+
+
+<img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/superhero.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/skull.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/fireball.png" width=180 />
+
+
+<img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/rocket.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/robot.png" width=180 /> <img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/nerd.png" width=180 />
+
+
+<img src="https://github.com/blocklytics/brand-resources/blob/master/emoji/wizard.png" width=180 />
